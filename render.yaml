@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-tangolevel
+    name: For-socchan0123
     env: python
     region: Oregon
     plan: free
